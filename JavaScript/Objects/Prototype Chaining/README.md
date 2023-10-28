@@ -31,7 +31,7 @@ do {
 } while (object);
 ```
 
-![The result of the above code](Prototype%20Chaining%209469bfb949fb4ff4a49fc21ce8813d98/Screenshot_2023-10-15_at_18.09.26.png)
+![The result of the above code](./preview.png)
 
 The result of the above code
 
