@@ -1,4 +1,4 @@
-# SPECIAL THANKS TO Guy Koranat ([@GkG0139](https://github.com/GkG0139)) FOR PROVIDE INFORMATION IN THIS REPOSITORY
+# SPECIAL THANKS TO Guy Koranat ([@GkG0139](https://github.com/GkG0139)) FOR PROVIDED INFORMATION IN THIS REPOSITORY
 
 # JavaScript Study Material
 
