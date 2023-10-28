@@ -2,8 +2,8 @@
 
 [Types and Operators](./JavaScript/Types%20and%20Operators%20)
 
-[Objects](https://github.com/LynchzDEV/JavaScript-GUY/tree/main/JavaScript/Objects)
+[Objects](./JavaScript/Objects)
 
-[Functions](https://github.com/LynchzDEV/JavaScript-GUY/tree/main/JavaScript/Functions)
+[Functions](./JavaScript/Functions)
 
-[Arrays Methods](https://github.com/LynchzDEV/JavaScript-GUY/tree/main/JavaScript/Arrays%20Methods)
+[Arrays Methods](./JavaScript/Arrays%20Methods)
