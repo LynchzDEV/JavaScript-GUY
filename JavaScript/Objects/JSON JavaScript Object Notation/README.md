@@ -26,7 +26,7 @@ console.log(JSON.stringify(person)); // { "name": "Blue" }
     }
     ```
     
-    ![The result of the above code](JSON%20JavaScript%20Object%20Notation%205c351381793d44c58b3f36cc59c0da3e/Screenshot_2023-10-15_at_18.47.37.png)
+    ![The result of the above code](./preview.png)
     
     The result of the above code
     
