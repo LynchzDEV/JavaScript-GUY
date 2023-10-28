@@ -1,6 +1,6 @@
 # JavaScript
 
-[Types and Operators](./Types%20and%20Operators)
+[Types and Operators](./JavaScript/Types%20and%20Operators%20)
 
 [Objects](https://github.com/LynchzDEV/JavaScript-GUY/tree/main/JavaScript/Objects)
 
