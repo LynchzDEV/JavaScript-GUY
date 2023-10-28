@@ -4,7 +4,7 @@ This repository is a comprehensive guide for those interested in learning JavaSc
 
 ## Table of Contents
 
-- [Types and Operators](./JavaScript/Types%20and%20Operators)
+- [Types and Operators](./JavaScript/Types%20and%20Operators%20)
   - Get to know the different types of data and how to manipulate them using operators.
   
 - [Objects](./JavaScript/Objects)
