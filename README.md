@@ -1,3 +1,5 @@
+# SPECIAL THANKS TO Guy Koranat ([@GkG0139](https://github.com/GkG0139) FOR PROVIDE INFORMATION IN THIS REPOSITORY
+
 # JavaScript Study Material
 
 This repository is a comprehensive guide for those interested in learning JavaScript. It covers various foundational topics and provides practical examples to facilitate your learning experience.
@@ -15,5 +17,3 @@ This repository is a comprehensive guide for those interested in learning JavaSc
   
 - [Arrays Methods](./JavaScript/Arrays%20Methods)
   - Discover how to manage arrays using various in-built methods for efficient data handling.
-
-Happy coding!
