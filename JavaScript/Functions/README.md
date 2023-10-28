@@ -41,10 +41,10 @@ outerFunction();
 
 [Higher-Order Functions](./Higher-Order%20Functions)
 
-[Arrow Functions](Functions%20078ef94df2244a77b2f4878b1bafbd60/Arrow%20Functions%20272534d3008c4b15998480114106bad9.md)
+[Arrow Functions](./Arrow%20Functions.md)
 
-[Named vs Anonymous Functions](Functions%20078ef94df2244a77b2f4878b1bafbd60/Named%20vs%20Anonymous%20Functions%2041d874f87dd64f809eda66f39d6c35f9.md)
+[Named vs Anonymous Functions](./Named%20vs%20Anonymous%20Functions.md)
 
-[**Nested Functions**](Functions%20078ef94df2244a77b2f4878b1bafbd60/Nested%20Functions%20f71bc13c61de432cb4697ecf904c6db2.md)
+[Nested Functions](./Nested%20Functions.md)
 
-[Closure Functions](Functions%20078ef94df2244a77b2f4878b1bafbd60/Closure%20Functions%202fee34e6a60c417a999630c5b1db4dc8.md)
+[Closure Functions](./Closure%20Functions.md)
