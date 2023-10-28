@@ -2,7 +2,7 @@
 
 - **Higher-order functions** are functions that can take other functions as arguments or return functions as their results.
     
-    ![Untitled](Higher-Order%20Functions%2061e55025e39746fdaa84487ee73f528b/Untitled.png)
+    ![Untitled](./preview.png)
     
 - They enable a functional programming style in JavaScript and are powerful tools for managing and manipulating functions and data.
 
@@ -37,4 +37,4 @@ console.log(filteredWords); // Output: ['banana', 'cherry', 'elderberry']
 
 [Higher Order Functions in JavaScript – Beginner's Guide](https://www.freecodecamp.org/news/higher-order-functions-in-javascript/)
 
-[Pass Function to Other Functions](Higher-Order%20Functions%2061e55025e39746fdaa84487ee73f528b/Pass%20Function%20to%20Other%20Functions%20263592ef655e4748bc2f92edd795010b.md)
+[Pass Function to Other Functions](./Pass%20Function%20to%20Other%20Functions.md)
