@@ -41,7 +41,7 @@ const person = {
 console.log(person.age);
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%201.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview1.png)
 
 The result of the above code
 
@@ -55,7 +55,7 @@ person.age = 19;
 console.log(person.age);
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%202.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview2.png)
 
 The result of the above code
 
@@ -69,7 +69,7 @@ person.nickname = 'Blue';
 console.log(person.nickname);
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%203.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview3.png)
 
 The result of the above code
 
@@ -96,7 +96,7 @@ const person = {
 console.log(person['id']);
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%204.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview4.png)
 
 The result of the above code
 
@@ -110,7 +110,7 @@ person['id'] = 65130554321;
 console.log(person['id']);
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%205.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview5.png)
 
 The result of the above code
 
@@ -124,7 +124,7 @@ person['name'] = 'Samart';
 console.log(person['name']);
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%206.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview6.png)
 
 The result of the above code
 
@@ -144,7 +144,7 @@ for (let i = 1; i <= 5; i++) {
 }
 ```
 
-![The result of the above code](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled%207.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview8.png)
 
 The result of the above code
 
