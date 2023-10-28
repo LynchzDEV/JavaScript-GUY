@@ -73,7 +73,7 @@ const sum = function (a, b) {
 }
 ```
 
-Before we go any further, please take a look at [Named vs. Anonymous Functions](Named%20vs%20Anonymous%20Functions%2041d874f87dd64f809eda66f39d6c35f9.md) first.
+Before we go any further, please take a look at [Named vs. Anonymous Functions](./Named%20vs%20Anonymous%20Functions.md) first.
 
 An *[arrow function expression](https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-javascript#arrow-functions)* is an anonymous function expression written with the “fat arrow” syntax (`=>`).
 
