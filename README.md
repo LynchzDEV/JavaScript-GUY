@@ -1,5 +1,5 @@
 # SPECIAL THANKS TO Guy Koranat ([@GkG0139](https://github.com/GkG0139)) FOR PROVIDED INFORMATION IN THIS REPOSITORY
-## In case you want to edit, share, or do something, Go ask Guy respectfully.
+# In case you want to edit, share, or do something, Go ask Guy respectfully.
 
 # JavaScript Study Material
 
