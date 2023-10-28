@@ -39,7 +39,7 @@ function outerFunction() {
 outerFunction();
 ```
 
-[Higher-Order Functions](Functions%20078ef94df2244a77b2f4878b1bafbd60/Higher-Order%20Functions%2061e55025e39746fdaa84487ee73f528b.md)
+[Higher-Order Functions](./Higher-Order%20Functions)
 
 [Arrow Functions](Functions%20078ef94df2244a77b2f4878b1bafbd60/Arrow%20Functions%20272534d3008c4b15998480114106bad9.md)
 
