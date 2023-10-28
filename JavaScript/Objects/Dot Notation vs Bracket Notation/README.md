@@ -124,7 +124,7 @@ person['name'] = 'Samart';
 console.log(person['name']);
 ```
 
-![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview6.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview8.png)
 
 The result of the above code
 
@@ -144,7 +144,7 @@ for (let i = 1; i <= 5; i++) {
 }
 ```
 
-![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview8.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview6.png)
 
 The result of the above code
 
