@@ -17,7 +17,7 @@ blueGirl.score = 10;
 console.log(blueBoy);
 ```
 
-![The result of the above code](Characteristics%20of%20Objects%20268ea64146434213a5e1f89734db9e02/Untitled.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Characteristics%20of%20Objects/preview.png)
 
 The result of the above code
 
