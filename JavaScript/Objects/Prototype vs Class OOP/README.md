@@ -5,7 +5,7 @@
 
 </aside>
 
-[Why JavaScript is a Prototype-based OOP](./preview2.png)
+[Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
 
 In a class-based OOP, we use classes as a blueprint for creating the objects, whereas in a prototype-based OOP, we can create the objects without first defining their class.
 
@@ -15,7 +15,7 @@ So, if we don’t need a class, how do we inherit properties? Instead, objects i
 
 Prototypes play a central role in JavaScript's prototype-based OOP. Each object has a hidden property called **`prototype`**, represented by **`[[Prototype]]`**, which points to another object. This object, referred to as "the prototype of that object," holds the properties and methods that the object inherits.
 
-![Untitled](./preview1.png)
+![Untitled](./preview2.png)
 
 This approach allows us to create objects with similar functionality to those in class-based OOPs.
 
@@ -34,7 +34,7 @@ We are accessing the existing properties from the given code, **but what if that
 
 If the property we are looking for doesn’t exist in the property, the JS engine will try to search `[[prototype]]`, **this process is known as prototype chaining.**
 
-![Untitled](Prototype%20vs%20Class%20OOP%20beb484541224478eb7b9983205d85639/Untitled%201.png)
+![Untitled](./preview1.png)
 
 ### Let’s take a look at a quick example:
 
