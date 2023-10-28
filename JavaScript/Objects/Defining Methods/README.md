@@ -17,7 +17,7 @@ const obj = {
 console.log(obj.foo());
 ```
 
-![The result of the above code](Defining%20Methods%204bd195ba8bc74a03bed637e1b6e4c1dd/Untitled.png)
+![The result of the above code](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Defining%20Methods/preview.png)
 
 The result of the above code
 
