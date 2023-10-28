@@ -18,7 +18,7 @@ console.log(student.id);
 console.log(student["id"]);
 ```
 
-![Untitled](Dot%20Notation%20vs%20Bracket%20Notation%202f48c64e909444d2a3bf7bce375d257e/Untitled.png)
+![Untitled](https://github.com/LynchzDEV/JavaScript-GUY/blob/main/JavaScript/Objects/Dot%20Notation%20vs%20Bracket%20Notation/preview7.png)
 
 As you can see, the result is the same, but are they really identical?
 
