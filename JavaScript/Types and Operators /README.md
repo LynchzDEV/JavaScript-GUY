@@ -1,15 +1,10 @@
-# Types and Operators
+# Types and Operators in JavaScript
 
-JavaScript is dynamic typing, which means variables can hold different types of values because it’s all figured out during execution.
+This repository aims to provide an understanding of types and operators in JavaScript. JavaScript is dynamically-typed, allowing variables to hold various types of values during execution. Topics covered include:
 
-```jsx
-var isNew = true;
-isNew = 'Yup';
-isNew = 1;
-```
+- **Dynamic Typing**: Learn how variables can change their type at runtime.
+- **[Primitive Types](./Primitive%20Types.md)**: Understand the basic data types in JavaScript like Number, String, Boolean, etc.
+- **[Operators](./Operators.md)**: Get to know how to manipulate data using different operators.
+- **[Coercion](./Coercion.md)**: Dive into the implicit type conversion that happens in JavaScript.
 
-[Primitive Types](./Primitive%20Types.md)
-
-[Operators](./Operators.md)
-
-[Coercion](./Coercion.md)
+Feel free to navigate through the sections to build your foundation in JavaScript types and operators.
